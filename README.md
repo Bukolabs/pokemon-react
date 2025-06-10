@@ -52,3 +52,14 @@ export default tseslint.config({
   },
 })
 ```
+
+# Starting Commands
+
+1. npm create vite@latest pokemon-react -- --template react-ts
+2. cd pokemon-react
+3. npm i
+4. npm run dev -> http://localhost:5173/
+5. https://pokeapi.co/
+
+6. npm install sass
+7. npm install react-router-dom. npm install -D @types/react-router-dom
